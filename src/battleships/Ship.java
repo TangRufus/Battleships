@@ -6,7 +6,7 @@ package battleships;
 
 /**
  *
- * @author numberThree
+ * @author tangrRufus@gmail.com
  */
 public class Ship {
     private char sType;

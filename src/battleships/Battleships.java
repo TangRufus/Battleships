@@ -11,7 +11,7 @@ import javax.swing.JTextArea;
 
 /**
  *
- * @author numberThree
+ * @author tangrRufus@gmail.com
  */
 public class Battleships {
     
